@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="creator-window" style="width: 100%;&#10;height: 100%;&#10;">
+        <Style src="CharacterCreator.uss" />
+        <ui:VisualElement name="menu-sections" />
+        <ui:VisualElement name="menu-options" />
+        <ui:VisualElement name="character-view" />
+        <ui:VisualElement name="view-options" />
+    </ui:VisualElement>
+</ui:UXML>
