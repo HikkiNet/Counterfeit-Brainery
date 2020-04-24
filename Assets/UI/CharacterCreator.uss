@@ -1,0 +1,22 @@
+.drop-option {
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+}
+
+.drop-toggler .unity-toggle__checkmark {
+}
+
+.drop-toggler .unity-toggle__input {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.drop-toggler .unity-toggle__text {
+    margin: 0;
+}
+
+.drop-toggler .unity-foldout__content {
+    margin-left: 10px;
+}
